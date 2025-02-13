@@ -15,8 +15,6 @@ BroSplit is a full-featured Workout Planner built using **React.js** and **Fanta
 - **State Management:** React Hooks
 - **Deployment:** Netlify / Vercel
 
-## 📸 Screenshots
-*(Add screenshots here to showcase the UI!)*
 
 ## 🚀 Getting Started
 ### 🔧 Installation
